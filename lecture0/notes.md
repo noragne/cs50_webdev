@@ -6,4 +6,5 @@
   - git status
   - git push
   - git pull
-  - 
+  - # Merge Conflicts
+  -
